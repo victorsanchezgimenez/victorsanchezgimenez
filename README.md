@@ -40,7 +40,7 @@ Dado mi rol como fundador, el código de mis proyectos principales y de consulto
 
 Si buscas un perfil técnico para liderar el desarrollo de IA aplicada o necesitas automatizar las operaciones de tu empresa, puedes contactarme por las siguientes vías:
 
-- **LinkedIn:** [linkedin.com/in/victorsanchezgimenez](https://www.linkedin.com/in/victorsanchezgimenez) *(asegúrate de poner tu enlace real aquí)*
+- **LinkedIn:** [linkedin.com/in/victorsanchezgimenez](https://www.linkedin.com/in/v%C3%ADctor-s%C3%A1nchez-gim%C3%A9nez-023baa135/)
 - **Web de consultoría:** [Softwave.es](https://www.softwave.es)
 - **Web SaaS Fixea:** [Fixea.es](https://www.fixea.es/)
 - **Email:** victorsanchezgimenez98@gmail.com
